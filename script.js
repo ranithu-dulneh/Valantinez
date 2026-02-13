@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     yesBtn.addEventListener('click', () => {
-        window.location.href = "https://wa.me/0725571648?text=Yes%20I'll%20be%20your%20valantine";
+        window.location.href = "https://wa.me/94725571648?text=Yes%20I'll%20be%20your%20valantine";
     });
 
     // Floating Emojis
